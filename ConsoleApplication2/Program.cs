@@ -11,7 +11,7 @@ namespace ConsoleApplication2
         static void Main(string[] args)
         {
             
-            int[] numbers = new int[5];
+            /* int[] numbers = new int[5];
 
             numbers[0] = 4;
             numbers[1] = 8;
@@ -22,10 +22,10 @@ namespace ConsoleApplication2
 
             Console.WriteLine(numbers[1]);
             Console.WriteLine(numbers.Length);
-            Console.ReadLine();
+            Console.ReadLine(); */
              
 
-            int[] numbers = new int[] { 4, 8, 15, 16, 23, 42 };
+            /* int[] numbers = new int[] { 4, 8, 15, 16, 23, 42 };
 
             string[] names = new string[] { "eddie", "roger", "derek" };
 
@@ -33,7 +33,7 @@ namespace ConsoleApplication2
             {
                 Console.WriteLine(names[1]);
             }
-            Console.ReadLine();
+            Console.ReadLine(); */
             
             /*
             foreach (string name in names)
@@ -42,7 +42,7 @@ namespace ConsoleApplication2
             }
             Console.ReadLine();
             */
-            /*
+            
             string zig = "You can get what you want out of life " + 
                 "if you help other people out.";
 
@@ -54,7 +54,7 @@ namespace ConsoleApplication2
                 Console.Write(zigChar);
             }
             Console.ReadLine();
-            */
+            
         }
     }
 }
